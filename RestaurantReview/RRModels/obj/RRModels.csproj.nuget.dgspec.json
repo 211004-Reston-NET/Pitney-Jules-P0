@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\RestaurantReview\\RRModels\\RRModels.csproj": {}
+    "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\Pitney-Jules-P0\\RestaurantReview\\RRModels\\RRModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\RestaurantReview\\RRModels\\RRModels.csproj": {
+    "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\Pitney-Jules-P0\\RestaurantReview\\RRModels\\RRModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\RestaurantReview\\RRModels\\RRModels.csproj",
+        "projectUniqueName": "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\Pitney-Jules-P0\\RestaurantReview\\RRModels\\RRModels.csproj",
         "projectName": "RRModels",
-        "projectPath": "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\RestaurantReview\\RRModels\\RRModels.csproj",
+        "projectPath": "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\Pitney-Jules-P0\\RestaurantReview\\RRModels\\RRModels.csproj",
         "packagesPath": "C:\\Users\\pjule\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\RestaurantReview\\RRModels\\obj\\",
+        "outputPath": "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\Pitney-Jules-P0\\RestaurantReview\\RRModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

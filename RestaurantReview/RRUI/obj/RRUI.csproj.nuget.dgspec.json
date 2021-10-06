@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\RestaurantReview\\RRUI\\RRUI.csproj": {}
+    "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\Pitney-Jules-P0\\RestaurantReview\\RRUI\\RRUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\RestaurantReview\\RRUI\\RRUI.csproj": {
+    "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\Pitney-Jules-P0\\RestaurantReview\\RRUI\\RRUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\RestaurantReview\\RRUI\\RRUI.csproj",
+        "projectUniqueName": "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\Pitney-Jules-P0\\RestaurantReview\\RRUI\\RRUI.csproj",
         "projectName": "RRUI",
-        "projectPath": "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\RestaurantReview\\RRUI\\RRUI.csproj",
+        "projectPath": "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\Pitney-Jules-P0\\RestaurantReview\\RRUI\\RRUI.csproj",
         "packagesPath": "C:\\Users\\pjule\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\RestaurantReview\\RRUI\\obj\\",
+        "outputPath": "C:\\Users\\pjule\\Documents\\211004-Reston-NET\\Pitney-Jules-P0\\RestaurantReview\\RRUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
