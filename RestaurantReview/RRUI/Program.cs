@@ -8,36 +8,48 @@ namespace RRUI
         {
             bool repeat = true;
 
+            //Polymorphism
+
+            IMenu page = new MainMenu();
+
             while (repeat)
             {
                 //Clean the screen on the terminal
                 Console.Clear();
+                page.Menu();
+                MenuType currentPage = page.YourChoice();
+
                 Console.WriteLine("Welcome to the Restaurant");
                 string userChoice;
                 Console.WriteLine("[1] - Do you want to clear the screen?");
                 Console.WriteLine("[2] - Do you want to exit out of the program?");
                 userChoice = Console.ReadLine();
-                MenuMain test = new MenuMain();
+                MainMenu test = new MainMenu();
                 test.Menu();
 
 
-                switch (userChoice)
+                switch (currentPage)
                 {
-                    case "1":
-                        Console.WriteLine("User has chosen to clear the screen");
-                        Console.WriteLine("Press Enter to continue...");
-                        Console.ReadLine();
+                    case MenuType.MainMenu:
+
+                        page = new MainMenu();
                         break;
-                    case "2":
+
+                    case MenuType.RestaurantMenu:
                         repeat = false;
+
+                        break;
+                    case MenuType.Exit:
+
                         Console.WriteLine("You have exited to the program!");
                         Console.WriteLine("Press Enter to continue...");
                         Console.ReadLine();
                         break;
+
                     default:
-                        Console.WriteLine("What the heck did you just type, try again!");
-                        Console.WriteLine("Press Enter to continue...");
-                        Console.ReadLine();
+
+                        Console.WriteLine("You didn't add a menu in your enum!");
+
                         break;
                 }
             }

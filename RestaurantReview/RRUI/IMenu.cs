@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace RRUI
 {
+    public enum MenuType{
+        MainMenu,
+        RestaurantMenu, 
+        Exit,
+    }
     public interface IMenu
     {
         /// <summary>
@@ -17,6 +22,6 @@ namespace RRUI
         /// <summary>
         /// Will record the users choice and change the menu based on their selection. 
         /// </summary>
-        void YourChoice(); 
+        MenuType YourChoice(); 
     }
 }
