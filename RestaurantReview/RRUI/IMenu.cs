@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace RRUI
+﻿namespace RRUI
 {
-    public enum MenuType{
+    public enum MenuType
+    {
         MainMenu,
-        RestaurantMenu, 
+        RestaurantMenu,
         Exit,
     }
     public interface IMenu
@@ -22,6 +17,6 @@ namespace RRUI
         /// <summary>
         /// Will record the users choice and change the menu based on their selection. 
         /// </summary>
-        MenuType YourChoice(); 
+        MenuType YourChoice();
     }
 }

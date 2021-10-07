@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RRUI
 {
@@ -21,7 +17,8 @@ namespace RRUI
         {
             string userChoice = Console.ReadLine();
 
-            switch (userChoice) {
+            switch (userChoice)
+            {
 
                 case "1":
                     return MenuType.RestaurantMenu;
@@ -32,7 +29,7 @@ namespace RRUI
                     Console.WriteLine("Press enter to continue");
                     Console.ReadLine();
                     return MenuType.RestaurantMenu;
-                   
+
 
             }
 
