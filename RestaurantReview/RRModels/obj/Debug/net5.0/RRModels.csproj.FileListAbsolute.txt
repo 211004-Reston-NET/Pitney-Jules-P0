@@ -1,0 +1,5 @@
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\obj\Debug\net5.0\RRModels.csproj.AssemblyReference.cache
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\obj\Debug\net5.0\RRModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\obj\Debug\net5.0\RRModels.AssemblyInfoInputs.cache
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\obj\Debug\net5.0\RRModels.AssemblyInfo.cs
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\obj\Debug\net5.0\RRModels.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\bin\Debug\net5.0\RRUI.exe
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\bin\Debug\net5.0\RRUI.deps.json
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\bin\Debug\net5.0\RRUI.runtimeconfig.json
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\bin\Debug\net5.0\RRUI.runtimeconfig.dev.json
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\bin\Debug\net5.0\RRUI.dll
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\bin\Debug\net5.0\ref\RRUI.dll
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\bin\Debug\net5.0\RRUI.pdb
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\obj\Debug\net5.0\RRUI.csproj.AssemblyReference.cache
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\obj\Debug\net5.0\RRUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\obj\Debug\net5.0\RRUI.AssemblyInfoInputs.cache
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\obj\Debug\net5.0\RRUI.AssemblyInfo.cs
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\obj\Debug\net5.0\RRUI.csproj.CoreCompileInputs.cache
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\obj\Debug\net5.0\RRUI.dll
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\obj\Debug\net5.0\ref\RRUI.dll
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\obj\Debug\net5.0\RRUI.pdb
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRUI\obj\Debug\net5.0\RRUI.genruntimeconfig.cache
