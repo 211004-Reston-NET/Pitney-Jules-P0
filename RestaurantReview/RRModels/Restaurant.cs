@@ -18,7 +18,7 @@ namespace RRModels
                 if (!Regex.IsMatch(value, @"^[A-Za-z .]+$"))
                 {
                     //Will give the user an exception whenever you try to set the city field with a number
-                    throw new Exception("City can only hold letters!");
+                    throw new Exception("City name can only contain letters!");
                 }
                 _city = value;
             }

@@ -3,3 +3,10 @@ C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRMo
 C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\obj\Debug\net5.0\RRModels.AssemblyInfoInputs.cache
 C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\obj\Debug\net5.0\RRModels.AssemblyInfo.cs
 C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\obj\Debug\net5.0\RRModels.csproj.CoreCompileInputs.cache
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\bin\Debug\net5.0\RRModels.deps.json
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\bin\Debug\net5.0\RRModels.dll
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\bin\Debug\net5.0\ref\RRModels.dll
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\bin\Debug\net5.0\RRModels.pdb
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\obj\Debug\net5.0\RRModels.dll
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\obj\Debug\net5.0\ref\RRModels.dll
+C:\Users\pjule\Documents\211004-Reston-NET\Pitney-Jules-P0\RestaurantReview\RRModels\obj\Debug\net5.0\RRModels.pdb
