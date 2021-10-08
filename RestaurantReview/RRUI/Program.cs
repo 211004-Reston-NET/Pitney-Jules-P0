@@ -20,10 +20,10 @@ namespace RRUI
                 MenuType currentPage = page.YourChoice();
 
                 Console.WriteLine("Welcome to the Restaurant");
-                string userChoice;
+                //string userChoice;
                 Console.WriteLine("[1] - Do you want to clear the screen?");
                 Console.WriteLine("[2] - Do you want to exit out of the program?");
-                userChoice = Console.ReadLine();
+                //userChoice = Console.ReadLine();
                 MainMenu test = new MainMenu();
                 test.Menu();
 
